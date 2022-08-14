@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khaled Mahmoud</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently learning **Xamarin**
 
 - 📫 How to reach me **khaled.ms.113@gmail.com**
 
