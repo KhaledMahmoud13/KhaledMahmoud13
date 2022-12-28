@@ -29,7 +29,7 @@
 </div>
 
 <div>
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=KhaledMahmoud13&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D">
+<!-- <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=KhaledMahmoud13&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D"> -->
   <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledMahmoud13&layout=compact&theme=dark">
 </div>
