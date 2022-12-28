@@ -62,12 +62,12 @@
 
 <br />
 <!-- Contact Me -->
-<div>
+<!-- <div>
   <h3>
     <img width="30" src="https://media.giphy.com/media/Kd5t8Q0aUDui9yaf9n/giphy.gif" alt="contact us icon">
     Feel Free To Contact:
   </h3>
-</div>
+</div> -->
 
 
 
