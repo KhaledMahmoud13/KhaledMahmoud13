@@ -1,14 +1,75 @@
-<h1 align="center">Hi 👋, I'm Khaled Mahmoud</h1>
-<h3 align="center">A passionate developer</h3>
+<h1 align="center">Hey There I'm Noaman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" /></h1>
+<h3 align="center">A Self Teach Android Developer & A Software Enginner</h3>
+<br />
+<!-- Gif -->
+<div align="center" >
+<img style="border-radius: 10px" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+</div>
 
-- 🌱 I’m currently learning **Android**
+<!-- About Me Section -->
+<div>
+<h3>
+<img src="https://media.giphy.com/media/ABiB3kRDZ9HQXsmb7b/giphy.gif" width="30">
+  About Me:
+</h3>
+  </div>
+  <img width="350" height="201.25" align="right" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg" />
+  
+- I’m student at I-TECH School.
+- Looking Forward To Master Android Development.
 
-- 📫 How to reach me **khaled.ms.113@gmail.com**
+<br />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.hackerrank.com/khaledmahmoud111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khaledmahmoud111" height="30" width="40" /></a>
-</p>
+<!-- My Skills -->
+<div>
+<h3>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
+  My Skills:
+</h3>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<div>
+<img height="180" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledMahmoud13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)">
+  <br />
+<img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledMahmoud13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)">
+</div>
+
+<br />
+
+<!-- Github State -->
+<div>
+<h3>
+  <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="30"> 
+  Github Stats:
+</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=KhaledMahmoud13&show_icons=true&theme=dark">
+</div>
+
+<!-- More Info -->
+<div>
+  <h3>
+    <img width="30" src="https://media.giphy.com/media/MXuvFNv8nLYP8GdYUD/giphy.gif" alt="more info icon">
+    More Info:
+  </h3>
+</div>
+
+
+<div align="left">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhaledMahmoud13&theme=nord_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KhaledMahmoud13&theme=nord_dark" alt="Profile Status">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KhaledMahmoud13&theme=nord_dark&utcOffset=8" alt="Profile Status">
+</div>
+
+<br />
+<!-- Contact Me -->
+<div>
+  <h3>
+    <img width="30" src="https://media.giphy.com/media/Kd5t8Q0aUDui9yaf9n/giphy.gif" alt="contact us icon">
+    Feel Free To Contact:
+  </h3>
+</div>
+
+
+
+
+
