@@ -15,7 +15,7 @@
   </div>
   <img width="350" height="201.25" align="right" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg" />
   
-- I’m student at I-TECH School.
+- Innovative Mobile Developer proficient in Flutter and Android native development. Skilled in problem-solving, optimizing app performance, and integrating third-party libraries and APIs. Experienced in troubleshooting and debugging. Passionate about leveraging technology for impactful solutions and driving innovation across various domains.
 
 <br />
 
