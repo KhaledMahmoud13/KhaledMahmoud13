@@ -1,5 +1,5 @@
 <h1 align="center">Hey There I'm Khaled <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" /></h1>
-<h3 align="center">A Self Teach Mobile Developer & A Software Enginner</h3>
+<h3 align="center">A Software Enginner</h3>
 <br />
 <!-- Gif -->
 <div align="center" >
@@ -7,6 +7,7 @@
 </div>
 
 <!-- About Me Section -->
+<!-- 
 <div>
 <h3>
 <img src="https://media.giphy.com/media/ABiB3kRDZ9HQXsmb7b/giphy.gif" width="30">
@@ -19,8 +20,9 @@
 
 <br />
 
-<!-- My Skills -->
+
 <div>
+-->
 <h3>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
   My Skills:
